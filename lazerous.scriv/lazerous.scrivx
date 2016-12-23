@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="da-abuxton-mbp00" Modified="2016-12-23 11:08:07 +0000" ModID="7D71F319-7EEE-4E54-AF9F-9BA2DCFB77E2">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="da-abuxton-mbp00" Modified="2016-12-23 11:21:05 +0000" ModID="C631D8F0-E1F4-4CDE-B813-50C92B789F40">
     <Binder>
         <BinderItem ID="0" UUID="64684D48-2BF7-46BC-88DA-6EAE3C22CF05" Type="DraftFolder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
             <Title>Player's Handbook</Title>
@@ -28,6 +28,38 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="244" UUID="B28E6A1B-4A2E-4112-BC0B-CCFF8FE6DFB2" Type="Text" Created="2016-12-23 11:12:57 +0000" Modified="2016-12-23 11:13:05 +0000">
+                            <Title>Black Powder</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="245" UUID="436AE459-3F23-4CCC-BB4C-B9C4D76FD2A4" Type="Text" Created="2016-12-23 11:15:30 +0000" Modified="2016-12-23 11:16:01 +0000">
+                            <Title>The Colours and sounds of magic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>242,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="251" UUID="9265A50F-5725-480D-9107-8B6783DE10BA" Type="Text" Created="2016-12-23 11:18:27 +0000" Modified="2016-12-23 11:18:44 +0000">
+                            <Title>Bestiary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>854,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -53,7 +85,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="45" UUID="8662D0C3-9C8E-41DD-8CD2-BDB113D6147E" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                        <BinderItem ID="45" UUID="8662D0C3-9C8E-41DD-8CD2-BDB113D6147E" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:21:05 +0000">
                             <Title>Thematic Elements</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -62,6 +94,31 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>253</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="253" UUID="D9EED879-4A29-470A-9180-32DF01DE27D8" Type="Text" Created="2016-12-23 11:19:32 +0000" Modified="2016-12-23 11:19:44 +0000">
+                                    <Title>Technology and Magic</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1924,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="254" UUID="C2502164-E262-4E3E-8248-9BCB621185C2" Type="Text" Created="2016-12-23 11:19:53 +0000" Modified="2016-12-23 11:20:06 +0000">
+                                    <Title>World Creation Primer</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1051,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="41" UUID="D94F70B0-DAE8-49C5-9D14-F6A00FD6F9D4" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
                             <Title>Places</Title>
@@ -72,15 +129,18 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
-                                <CorkboardSettings>
-                                    <FreeformMode>No</FreeformMode>
-                                    <FreeformCorkboardDocuments>
-                                        <IndexCardBinderID Position="1.89667,0.41" TimeStamp="2011-01-11 04:03:46 +0000">10</IndexCardBinderID>
-                                    </FreeformCorkboardDocuments>
-                                </CorkboardSettings>
-                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="255" UUID="EE92B8AA-B1A2-44DA-8B1E-ACA28D474969" Type="Text" Created="2016-12-23 11:20:21 +0000" Modified="2016-12-23 11:20:30 +0000">
+                                    <Title>Lazerous</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>755,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="131" UUID="8BB8DEDF-7366-42A5-BF71-A3BDD36BEBD0" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
                             <Title>Culture</Title>
@@ -91,6 +151,48 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="247" UUID="F7738B1A-B5C3-42FD-9D16-D181D1501217" Type="Text" Created="2016-12-23 11:17:28 +0000" Modified="2016-12-23 11:17:39 +0000">
+                                    <Title>Elves</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>159,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="248" UUID="FEB0A61D-4221-4CE4-9B4F-672BB30B7525" Type="Text" Created="2016-12-23 11:17:45 +0000" Modified="2016-12-23 11:17:57 +0000">
+                                    <Title>Dwarves</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>104,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="249" UUID="C45F5DB6-7A4B-44ED-A902-66C9CDF36774" Type="Text" Created="2016-12-23 11:18:01 +0000" Modified="2016-12-23 11:18:09 +0000">
+                                    <Title>Humans</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>230,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="250" UUID="E6AD0864-4222-4BD7-8AD6-DE7C7B98714B" Type="Text" Created="2016-12-23 11:18:02 +0000" Modified="2016-12-23 11:18:21 +0000">
+                                    <Title>Lizardkin</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>155,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="241" UUID="BCF85879-D1ED-4783-AF16-BC81A719E3B7" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
                             <Title>Mythology</Title>
@@ -101,6 +203,28 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="246" UUID="829B0D49-0004-42F9-8BD1-ACF0EFBEA4D8" Type="Text" Created="2016-12-23 11:16:27 +0000" Modified="2016-12-23 11:17:16 +0000">
+                                    <Title>Dragon Turtles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="252" UUID="476E09C8-1249-455B-98CB-FDD59D045833" Type="Text" Created="2016-12-23 11:18:56 +0000" Modified="2016-12-23 11:19:04 +0000">
+                                    <Title>Timeline</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1164,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="98" UUID="413F192C-772C-4B2D-AB50-41D583F81F75" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
                             <Title>Magic</Title>
@@ -174,6 +298,18 @@
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
+            <Children>
+                <BinderItem ID="243" UUID="7AFE1C66-810F-42DF-B71D-CD1356E07AC0" Type="Text" Created="2016-12-23 11:12:22 +0000" Modified="2016-12-23 11:12:49 +0000">
+                    <Title>Pinterest</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>47,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="2" UUID="2E3C0BB7-92BD-4985-A274-EB2CCEEC5954" Type="TrashFolder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
             <Title>Trash</Title>
@@ -208,7 +344,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 18:40:57 +0000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-12-23 11:08:07 +0000"></PreviousSession>
+        <PreviousSession Words="177" Characters="1096" Date="2016-12-23 11:08:07 +0000"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
