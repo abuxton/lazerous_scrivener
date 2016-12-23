@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="da-abuxton-mbp00" Modified="2016-12-23 11:08:07 +0000" ModID="7D71F319-7EEE-4E54-AF9F-9BA2DCFB77E2">
+    <Binder>
+        <BinderItem ID="0" UUID="64684D48-2BF7-46BC-88DA-6EAE3C22CF05" Type="DraftFolder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+            <Title>Player's Handbook</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="B90F21C4-7B29-43DC-B7B2-ACF45C2736C7" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>Campaign Guide</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Brown Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="208" UUID="D3E4C60E-ADFF-4366-8FD4-EA918D456CA2" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>House Rules</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>d20.tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="5" UUID="8F01525E-CB60-4DB4-9D33-685210701695" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+            <Title>Campaign</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="18" UUID="D7711184-328A-45F9-B5B6-AE707FEEAD86" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>Setting</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Map).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="45" UUID="8662D0C3-9C8E-41DD-8CD2-BDB113D6147E" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Thematic Elements</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="D94F70B0-DAE8-49C5-9D14-F6A00FD6F9D4" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Places</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                                <CorkboardSettings>
+                                    <FreeformMode>No</FreeformMode>
+                                    <FreeformCorkboardDocuments>
+                                        <IndexCardBinderID Position="1.89667,0.41" TimeStamp="2011-01-11 04:03:46 +0000">10</IndexCardBinderID>
+                                    </FreeformCorkboardDocuments>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="131" UUID="8BB8DEDF-7366-42A5-BF71-A3BDD36BEBD0" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Culture</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="241" UUID="BCF85879-D1ED-4783-AF16-BC81A719E3B7" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Mythology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="98" UUID="413F192C-772C-4B2D-AB50-41D583F81F75" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Magic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="242" UUID="E4031E68-29CD-4724-9ED5-A09E1EA3E6A7" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Technology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="BFD113D0-2AE9-456C-829C-FE082B81740D" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                            <Title>Groups &amp; Factions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="23" UUID="79D2C767-E5CA-4E30-BFA6-7E1D0A3F833E" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>Hooks</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Thought Bubble.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="100" UUID="2FED186B-07A7-4BDC-BE4E-3D3CF709C057" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>Stories</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Clapper Board.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="101" UUID="4F19F873-AF5A-4AD8-A5DC-CECBEF24B406" Type="Folder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+                    <Title>NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Mask).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="708DDDA9-8BC1-45B4-B5EE-EFB7A0F9D41A" Type="ResearchFolder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="2E3C0BB7-92BD-4985-A274-EB2CCEEC5954" Type="TrashFolder" Created="2016-12-23 11:08:09 +0000" Modified="2016-12-23 11:08:09 +0000">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="70DAC4EF-08E1-4E81-A852-20BA84BDE36B" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="12DD1B63-2CF7-4E6F-92E7-4EDB9F6499B7" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">hali</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-03-25 18:40:57 +0000" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2016-12-23 11:08:07 +0000"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
