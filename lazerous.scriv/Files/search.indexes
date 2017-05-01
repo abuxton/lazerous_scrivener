@@ -1,26 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="241">
-            <Title>Mythology</Title>
-        </Document>
-        <Document ID="42">
-            <Title>Groups &amp; Factions</Title>
+        <Document ID="18">
+            <Title>Setting</Title>
         </Document>
         <Document ID="242">
             <Title>Technology</Title>
         </Document>
-        <Document ID="101">
-            <Title>NPCs</Title>
+        <Document ID="250">
+            <Title>Lizardkin</Title>
+            <Text>Lizard men/lizard kin/dragon kin
+                  Swamp dwellers aquatics also ancient civilisation ruins, abusive fey users, but strong magical history.
+</Text>
         </Document>
-        <Document ID="208">
-            <Title>House Rules</Title>
+        <Document ID="255">
+            <Title>Lazerous</Title>
+            <Text>Lazerous is the biggest notable colony on the world of its name sake, rough geographically new orleans bayou 
+
+Actually a sunken, dead hollowed Dragon turtle built on with wooden scaffolding and circled by swamp trees and water 
+
+the buildings are big enough to be three layers at the outer 4 layers, 3 layers on the inner rim, the under city part submerged reaches inside the dragon turtles body. 
+
+The hub of Lazerous is a broken stone tower,  
+
+sub3 layer at outer rim is fully submerged, the sub2 is partially submerged and sewers even near centre 
+
+sub1 is dry but dank sub city, top layer is buildings and also in some place sa +1 or first story layer does exist 
+
+
+ a wild west bayou town of skimmers and fishermen, drunks, drunkards and traders  
+</Text>
+        </Document>
+        <Document ID="247">
+            <Title>Elves</Title>
+            <Text>Elves:
+Swamp tree dwellers druid type or plains Indian in type, use fey in agreed way very limited but co operative breeds resentment of dwarfish/human abuses
+</Text>
+        </Document>
+        <Document ID="41">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="251">
+            <Title>Bestiary</Title>
+            <Text>Monsters all plain or swamp based include sea dragon/turtles swamp variant, and black, green, dragons.
+Notes from the monster manual 
+mm1 4.0ed 
+p20, animated armour 
+p32, blight 
+p42, Cloaker 
+p44,couatl 
+p82, Displacer Beast 
+p96, green dragon 
+p120, Dragon Turtle 
+p134, Faerie Dragon 
+p138, Fungi 
+p193, Invisible stalker 
+p205, Lizard Folk 
+p220, Merrow Folk 
+p221, Mimic 
+p241 oozes 
+p255, Pseudo Dragon 
+p270, Shadow 
+p271, Shambling Mound 
+p272, Shield Gaurdian 
+p300, water wierd 
+p302, Willow the Whisp 
+p308, yuan-ti 
+
+mm2 3.5ed 
+p156, lizard folk 
+p204, vine predator 
+
+mm3 3.5ed 
+p9 Arcane ooze  
+p22 Cadever collector 
+p24 Changling 
+p27 Chelicera 
+p44 Dragon Eel 
+p46 Drowned 
+p66 Golem 
+p91 Living Spell 
+p96 lizard folk, blackscale 
+p110 Night Twist 
+p162 spell warped creature 
+p171 Swamp Strider Swarm 
+p190 warforged 
+p196 wood woad 
+</Text>
+        </Document>
+        <Document ID="243">
+            <Title>Pinterest</Title>
+            <Text>https://uk.pinterest.com/adept2051/rpg-lazerous</Text>
+        </Document>
+        <Document ID="0">
+            <Title>Player's Handbook</Title>
+        </Document>
+        <Document ID="42">
+            <Title>Groups &amp; Factions</Title>
+            <Text>push</Text>
+        </Document>
+        <Document ID="248">
+            <Title>Dwarves</Title>
+            <Text>Dwarves:
+Mechanical natured, swamp nativies, builders oil drillers, capture trap fey for abusive useafe
+</Text>
+        </Document>
+        <Document ID="100">
+            <Title>Stories</Title>
+        </Document>
+        <Document ID="252">
+            <Title>Timeline</Title>
+            <Text>af0 - the fall of lizard kind in lizard race history 
+ar1- the rising, when the dwarf/human/elve rose against the dragon ion/lizard masters  
+*worth noting that af0/ar1 are 10 years apart so when dealing with finding things both years are  interchangeable unless you know which race you are dealing with 
+
+br - before the rising 
+bf - before the fall 
+
+lizardkin, also have an habit of counting years by name of dragon kin in ascendancy so  
+
+br 50 is equivalent to &lt;insert name&gt; yr25 of its rule, or 40bf the fall took 10 years and is recorded as yr1 of the fall thus there is disconnection in the dates with dragon kin and lizard kin 
+
+
+ar1/tf1 - The lizard overlords discover that the elves have mastered magic, and the dwarves have been creating tech outside ether instruction in one day the humans armed and taught by the other elder races rise up, a single action shatter stye world gate and the humans also siege the star jammer port both are destroy fusing devices of dwarf design and the planet trembles. 
+
+
+
+af0/ar10/tf10 - The Lizard men overlords and there related races have fallen, driven back by the rising races (Dwarves, humans, Elves, and akin) 
+</Text>
+        </Document>
+        <Document ID="244">
+            <Title>Black Powder</Title>
         </Document>
         <Document ID="4">
             <Title>Campaign Guide</Title>
         </Document>
+        <Document ID="249">
+            <Title>Humans</Title>
+            <Text>Human
+Mix of above and slave race to lizard folk in past. Mostly venice inspired/wild west town colonies.
+Floatilers and bridges.less technolo magical but mixed relational fey usage abusive and co opritive depending on settlement
+</Text>
+        </Document>
+        <Document ID="101">
+            <Title>NPCs</Title>
+        </Document>
         <Document ID="5">
             <Title>Campaign</Title>
+        </Document>
+        <Document ID="45">
+            <Title>Thematic Elements</Title>
+            <Synopsis>
+Swamp/Bayou world, high level of humidity low level world split by dry plains and low mountains.
+Old culture ruled by lizard men/Dragon kin/mere types. Fallen civilisation
+Steam punk culture, fairies are coloured mosquito like bugs of no intellect but animal intelligence used as power sources colour coded by strength.
+Fairies used to power things, guns, flamers, skimmer engines, mechanical devices.</Synopsis>
+        </Document>
+        <Document ID="208">
+            <Title>House Rules</Title>
+        </Document>
+        <Document ID="245">
+            <Title>The Colours and sounds of magic</Title>
+            <Text>#
+New magic type based upon music main frame is string instrument, magic is tangeable in effect and colour.
+ violet 380–450 nm blue 450–495 nm green 495–570 nm yellow 570–590 nm orange 590–620 nm red
+white balance of all black absence of all
+</Text>
         </Document>
         <Document ID="23">
             <Title>Hooks</Title>
@@ -28,23 +173,125 @@
         <Document ID="98">
             <Title>Magic</Title>
         </Document>
-        <Document ID="45">
-            <Title>Thematic Elements</Title>
+        <Document ID="253">
+            <Title>Technology and Magic</Title>
+            <Text>technology on Lazerous is a mix of physical/magical in a format akin to steam punk/archanepunk? 
+
+magic on lazerous is not only contextual to magical notes but is prismatic http://www.d20srd.org/srd/spells/prismaticWall.htm or physical, all magic creates physical colour globes of residue contextual to the spell, music when played by those with the ability creates magical orbs, these orbs can be combined for affect. 
+
+The basic faerie on lazerous is anamilistic intelligent, coloured light prismatic creatures that are affectivly milked for their power. 
+
+RED fire based energy 
+Orange kinetic energy 
+Yellow Electrical energy 
+Green produce pressure and gas 
+blue no physical energy, petrification/transformation on discharge 
+Indigo negate energy 
+violet teleport energy  
+
+all spells are accompanied by related coloured discharge all creatures with abilities produce orbs of energy relating.  
+
+this means there is practical trad win captured creatures, and fey 
+yellow fey are used for lighting, and stun weapons 
+green are used to power hydraulic devices (doors, ramps, swamp walkers) 
+red are used to fire boom sticks, explosives 
+
+blue are used to drop into quick sand teraforming rock that is then mind with green based pressure devices from skiffs driven by either steam engines fired by red fey and coals, or electric prop yellow fey. 
+
+this can be expanded in many ways but tech should not push past late 1800 steamers and trains, wielders, basic one shot fire arms, stun rods but all needing expensive and hard to come by fey sacrifices 
+
+Transport 
+the races travel in many ways, dwarves by skirt, skimmer, steam/prop based and by walkers/waders.  
+
+the elves travel by surf/push board and also have been found to sue smaller dragon turtle s as bearers that and other creatures 
+
+humans dwarvern skiffs/boats and steamers as well as stilt walkers 
+
+lizards creature transport and aquatic travel, waders, 
+
+
+
+</Text>
         </Document>
-        <Document ID="0">
-            <Title>Player's Handbook</Title>
-        </Document>
-        <Document ID="100">
-            <Title>Stories</Title>
-        </Document>
-        <Document ID="18">
-            <Title>Setting</Title>
+        <Document ID="241">
+            <Title>Mythology</Title>
         </Document>
         <Document ID="131">
             <Title>Culture</Title>
         </Document>
-        <Document ID="41">
-            <Title>Places</Title>
+        <Document ID="254">
+            <Title>World Creation Primer</Title>
+            <Text>What is the Tone of Lazerous? 
+
+Films, media inspiration (films, pinterest, music, books) 
+
+The world 
+     10 things you need to know 
+Character races 
+     Elves 
+     Dwarves 
+     Gnomes 
+     Humans 
+     Lizard men 
+     War forged 
+  Notes on other races 
+Fairy lights 
+Character classes 
+     Lazerous special classes 
+ note son standard classes 
+
+Heroic Characteristics 
+     Feats 
+     Music 
+     Magic 
+Religion 
+
+Interaction with the planes 
+Cosmology 
+
+Spells &amp; Magic 
+     New spells 
+     spell notes adjustments 
+
+Equipment 
+Weapons 
+Tools 
+Transport 
+Services 
+Materials 
+
+Life in the World 
+     Economy 
+     Languages 
+     Adventures 
+ The lands of Lazerous 
+     The bayou 
+          major settlements/citys 
+          important landmarks 
+          adventure opportunities 
+     The forests  
+     The plains 
+     The mountains 
+     Island realms 
+      
+Organisations 
+
+HIstory 
+     The known time line 
+
+The campaign 
+Magic items 
+Artefacts 
+Wonderous locations 
+Dark secrets 
+     the unknown time line 
+Monsters 
+NPCs 
+</Text>
+        </Document>
+        <Document ID="246">
+            <Title>Dragon Turtles</Title>
+            <Text>#￼￼￼￼￼￼￼￼</Text>
         </Document>
     </Documents>
 </SearchIndexes>
